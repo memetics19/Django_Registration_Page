@@ -25,7 +25,7 @@ SECRET_KEY = '^9bb&^^4c+$*l84%akqpa@rpzq9#4)x7x(u3!d&8=*g_gik*w#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['astaqcremote.herokuapp.com']
 
 
 # Application definition
